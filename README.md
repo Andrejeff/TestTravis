@@ -1,3 +1,3 @@
 # TestTravis
 
-https://travis-ci.org/Andrejeff/TestTravis.svg?branch=master
+[![Build Status](https://travis-ci.org/Andrejeff/TestTravis.svg?branch=master)](https://travis-ci.org/Andrejeff/TestTravis)
