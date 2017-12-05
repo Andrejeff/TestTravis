@@ -1,0 +1,25 @@
+{
+  "name": "testtravis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrejeff/TestTravis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrejeff/TestTravis/issues"
+  },
+  "homepage": "https://github.com/Andrejeff/TestTravis#readme",
+  "devDependencies": {
+    "assert": "^1.4.1"
+  }
+}
